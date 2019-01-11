@@ -1,4 +1,4 @@
-# Demonstration Rust module system capability.
+# Demonstration of the latest, 2018 edition, Rust module system capability.
 - Download/clone the project and open it in your favorite IDE, 
 - open [module_demo.pdf](https://github.com/cheblin/module_demo/blob/master/modules_demo.pdf) scheme overviw,
 ![scheme](https://github.com/cheblin/module_demo/blob/master/modules_demo.svg)
