@@ -1,6 +1,6 @@
 # Demonstration Rust module system capability.
--Download/clone the project, 
--open it in your favorite IDE, 
+- Download/clone the project, 
+- open it in your favorite IDE, 
 open [module_demo.pdf](https://github.com/cheblin/module_demo/blob/master/modules_demo.pdf) scheme overviw,
 ![scheme](https://github.com/cheblin/module_demo/blob/master/modules_demo.svg)
 open Rust module documentation
