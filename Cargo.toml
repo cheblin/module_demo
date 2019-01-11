@@ -1,0 +1,8 @@
+[package]
+name = "module_demo"
+version = "0.1.0"
+authors = ["cheblin"]
+repository="https://github.com/cheblin/BlackBox"
+edition = "2018"
+
+[dependencies]
